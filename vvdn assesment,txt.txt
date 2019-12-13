@@ -1,0 +1,9 @@
+1.create a folder: mkdir sample.text
+2.create a file: touch example.text
+3. add few points in file: vi example.text
+4.apply permission to the file example.text to acess by anyone accessing the server: chmod777 example.text
+5.find the size of the dir(folder): du sample.text
+6.open the firefox from the terminal and find the process id: pidof firefox
+7.display the memory status in terms on mega bytes: free -mh
+8.create a  file name examapl.text and enter the following content "i love ubuntu" now replace ubuntu with centos without opening the file: sed -i 's/i love ubuntu/centos/g' example.text
+9.get the ip adress of the system: ip config
